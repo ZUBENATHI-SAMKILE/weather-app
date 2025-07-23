@@ -14,7 +14,6 @@ Live URL: https://ZUBENATHI-SAMKILE.github.io/weather-app
 - 🌡️ Displays temperature, weather condition, wind, and humidity
 - 🌙 Dark/light-friendly design
 - 🧊 Animated transitions
-- 💾 Saves data to local storage
 - 📱 Fully responsive on mobile & desktop
 
 ---
@@ -26,28 +25,6 @@ Live URL: https://ZUBENATHI-SAMKILE.github.io/weather-app
 - [gh-pages](https://www.npmjs.com/package/gh-pages) for deployment
 
 ---
-
-## 🚀 Getting Started
-
-### Clone the repository:
-```bash
-git clone https://github.com/ZUBENATHI-SAMKILE/weather-app.git
-cd weather-app
-Install dependencies:
-bash
-Copy
-Edit
-npm install
-Run locally:
-bash
-Copy
-Edit
-npm start
-Deploy to GitHub Pages:
-bash
-Copy
-Edit
-npm run deploy
 
 
 📝 License
