@@ -12,8 +12,7 @@ Live URL: https://ZUBENATHI-SAMKILE.github.io/weather-app
 - 🌍 Detects user location (with permission)
 - 🔍 Search weather by city name
 - 🌡️ Displays temperature, weather condition, wind, and humidity
-- 🌙 Dark/light-friendly design
-- 🧊 Animated transitions
+- 🧊 Animated transition
 - 📱 Fully responsive on mobile & desktop
 
 ---
@@ -40,5 +39,4 @@ Toggle between °C and °F
 Add 5-day weather forecast
 
 Custom themes
-
-Voice input for city search
+input for city search 
