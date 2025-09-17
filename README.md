@@ -32,4 +32,5 @@ input for city search
 This project is licensed under the MIT License.
 
 🧑‍💻 Author
+
 Created with 💙 by Zubenathi Samkile
