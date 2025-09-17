@@ -2,11 +2,9 @@
 
 A simple and responsive weather application built with **React.js** that displays real-time weather information for your current location or a searched city using the **OpenWeatherMap API**.
 
-🖼️ Demo
-Live URL: https://ZUBENATHI-SAMKILE.github.io/weather-app
-
+Live Demo
+click for Live Demo URL: https://ZUBENATHI-SAMKILE.github.io/weather-app
 ---
-
 ## 🔧 Features
 
 - 🌍 Detects user location (with permission)
@@ -24,19 +22,14 @@ Live URL: https://ZUBENATHI-SAMKILE.github.io/weather-app
 - [gh-pages](https://www.npmjs.com/package/gh-pages) for deployment
 
 ---
-
+💡 Future Improvements
+Toggle between °C and °F
+Add 5-day weather forecast
+Custom themes
+input for city search 
 
 📝 License
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
-Zubenathi Samkile
-GitHub: @ZUBENATHI-SAMKILE
-
-💡 Future Improvements
-Toggle between °C and °F
-
-Add 5-day weather forecast
-
-Custom themes
-input for city search 
+🧑‍💻 Author
+Created with 💙 by Zubenathi Samkile
