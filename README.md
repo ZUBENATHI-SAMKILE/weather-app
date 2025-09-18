@@ -5,28 +5,26 @@ A simple and responsive weather application built with **React.js** that display
 Live Demo
 click for Live Demo URL: https://ZUBENATHI-SAMKILE.github.io/weather-app
 ---
-## 🔧 Features
+## Features
 
-- 🌍 Detects user location (with permission)
-- 🔍 Search weather by city name
-- 🌡️ Displays temperature, weather condition, wind, and humidity
-- 🧊 Animated transition
-- 📱 Fully responsive on mobile & desktop
+-Detects user location (with permission)
+-Search weather by city name
+-Displays temperature, weather condition, wind, and humidity
+-Animated transition
+-Fully responsive on mobile & desktop
 
 ---
-
-## 📦 Built With
-
+## Built With
 - [React.js](https://reactjs.org/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [gh-pages](https://www.npmjs.com/package/gh-pages) for deployment
 
 ---
-💡 Future Improvements
-Toggle between °C and °F
-Add 5-day weather forecast
-Custom themes
-input for city search 
+Future Improvements
+-Toggle between °C and °F
+-Add 5-day weather forecast
+-Custom themes
+-input for city search 
 
 📝 License
 This project is licensed under the MIT License.
