@@ -12,7 +12,6 @@ click for Live Demo URL: https://ZUBENATHI-SAMKILE.github.io/weather-app
 - Animated transition
 - Fully responsive on mobile & desktop
 
-  
 ## Built With
 - [React.js](https://reactjs.org/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
